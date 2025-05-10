@@ -10,7 +10,7 @@ A minimal lightweight markdown editor built with Electron, JavaScript, HTML, and
 - File operations (New, Open, Save, Save As)
 - Keyboard shortcuts for common markdown formatting
 - Clean, modern UI
-- No third-party UI dependencies (like Qt)
+
 
 ## Getting Started
 
