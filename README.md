@@ -50,5 +50,5 @@ npm start
 - **Electron**: Cross-platform desktop application framework
 - **JavaScript**: Core programming language
 - **HTML/CSS**: UI rendering
-- **marked**: Markdown parsing library
+
 
