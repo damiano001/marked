@@ -1,6 +1,8 @@
 # Markdown Editor
 
 A minimal lightweight markdown editor built with Electron, JavaScript, HTML, and CSS. This editor allows you to create, edit, and preview markdown files without needing to select a vault.
+![Alt text](aa.png)
+
 
 ## Features
 
